@@ -1,0 +1,140 @@
+body{
+    background-color:#dff6fd;
+    text-align: center;
+    position: relative;
+    margin: 0px;
+    padding: 0px;
+    height: 100%;
+    width: 100%;
+}
+hr {
+    background-color: #ffffff;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: rgb(30, 116, 116);
+    border-width: 5px;
+    width: 10%;
+}
+p {
+    font-family: 'Josefin Sans', sans-serif;
+}
+.avatar {
+    width: 180px;
+
+}
+h1 {
+    position: relative;
+    bottom:150px;
+    color: #1e8585;
+    font-size: 5em;
+    font-family: 'Sacramento', cursive
+    
+}
+h3, h2{
+    color: #1e8585; 
+    font-family: 'Montserrat', sans-serif;
+}
+#prog {
+    color: #1e8585;
+    font-size: 30px;
+    position: relative;
+    bottom: 180px;
+}
+.top-container {
+    text-align: center;
+    position: relative;
+    padding-top: 50px;
+    margin: 0px;
+
+}
+.bottom-cloud {
+    position: absolute;
+    left:200px;
+}
+.top-cloud {
+    position: absolute;
+    right: 300px;
+}
+
+img.typing { /* The typing image  */
+    position: relative;
+    width: 280px;
+    float: left;
+    bottom: 200px;
+    margin: auto auto auto 200px;
+}
+.skill-typing { /* Typing skill  */
+    width: 50%;
+    text-align: left;
+    margin: 50px auto auto 500px;
+
+}
+img.googling{ /* The googling image  */
+    position: relative;
+    width: 280px;
+    float: left;
+    right: 280px;
+    margin: 100px 400px auto auto;
+}
+.google {/* googling skill */
+    width: 50%;
+    position: relative;
+    text-align: left;
+    bottom: 180px;
+    margin: auto auto auto 500px;
+}
+.content {
+    background-color: white;
+    /* border-radius: 50px; */
+}
+.button1 {
+    background-color: rgba(0, 115, 223, 0.918);
+    transition-duration: 0.4s;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    font-family: 'Josefin Sans', sans-serif;
+  }
+.button2 {
+    background-color: rgba(255, 94, 1, 0.918);
+    transition-duration: 0.4s;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.middle-container {
+    background-color: white;
+}
+.button1:hover, .button2:hover {
+    background-color: white;
+    color: black;
+    
+}
+.meow {
+    background-color: white;
+}
+.me {
+    position:relative;
+    top: 200px;
+}
+img.mountain {/* Mountain Image   */
+    width: 700px;
+    position:relative;
+    margin: auto 300px;
+    display: block;
+    text-align: center; 
+}
